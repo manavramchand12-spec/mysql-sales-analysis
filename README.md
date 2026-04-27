@@ -1,4 +1,4 @@
-# MySQL Sales Analysis Project
+# sales_analysis.sql
 
 ## Overview
 
